@@ -24,4 +24,4 @@ The script can also determine how many sets can be completed in a given number o
 
 Each of the AI's response are stored on their own directory.
 
-TLDR: ChatGPT's v2 best time for 5 sets is 124 minutes while Qwen's at 120 minutes
+**TLDR**: ChatGPT's v2 best time for 5 sets is 124 minutes while Qwen's at 120 minutes
