@@ -108,8 +108,6 @@ Each of the AI's response are stored on their own directory.
 ➡️ 115                                  Set 4   Transition ended, proceeding to step 3 .
 ▶️ 115                                   Set 4, Hang Dry, ends at 120
 ✅  120                                         Set 4, Completed: Hang Dry
-🔄 120                                   Transition started at ends at 121.
-➡️ 121                                  Set 4   Transition ended, proceeding to step 4 .
 🏁 Simulation completed in 120 minutes
 ```
 
@@ -135,5 +133,7 @@ Each of the AI's response are stored on their own directory.
  98 | Set 4 | Hang Dry   | end: 103
 104 | Set 5 | Spin Dry   | end: 107
 108 | Set 5 | Water Wash | end: 118
+119 | Set 5 | Hang Dry   | end: 124
+
 ```
 
